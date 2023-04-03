@@ -1,6 +1,8 @@
 #استيراد مكتبة OpenCV
 import cv2
 
+#just edited to test fork
+
 #قراءة الصورة من ملف img.jpg وتخزينها في متغير image
 image = cv2.imread("img.jpg")
 
